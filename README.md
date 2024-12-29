@@ -1,29 +1,36 @@
-# Bem-vindo ao meu GitHub! 👋
+# 👋 Olá, eu sou Leandro Rosa  
+### 🌱 Um apaixonado por Estratégia, Marketing, Investimentos e Automações e sem IA  
+🌐 Desde 2008 explorando a interseção entre tecnologia, negócios e inovação
+🚀 Comprometido com o aprendizado contínuo e a criação de soluções impactantes.
 
-## Sobre Mim
+💡 Desde 2009, venho aplicando Inteligência Artificial em projetos inovadores para negócios e investimentos. Meu primeiro projeto com IA foi desenvolvido como TCC em Engenharia Elétrica, e desde então venho expandindo minha experiência nesse campo.
 
-Olá! Sou Leandro Rosa, estrategista e consultor com ampla experiência em empreendedorismo, marketing e gestão. Ao longo da minha carreira, fundei e participei de iniciativas inovadoras, ajudando empresas a se destacarem no mercado por meio de planejamento estratégico e soluções tecnológicas. Recentemente, venho aplicando Python para automação de estratégias de investimento e análise de dados.
+### 💼 **Atualmente focado em:**
+🔭 Desenvolver automações para estratégias de investimento e análise de dados usando Python.
+💼 Desenvolver automações com e sem IA para negócios, desde atendimento ao cliente até gestão, estratégia e muito mais.
+📚 Aprimorar conhecimentos em inteligência artificial aplicada a negócios e finanças.  
+🚀 Explorar e implementar soluções tecnológicas para otimizar processos de decisão em investimentos.  
 
-- 🎓 **Formação Acadêmica:** 
-  - MBA em Investimentos Internacionais (ABRACOMEX).
-  - Programa de Liderança Global (Georgetown University, EUA)
-  - MBA em Marketing (Universidade Federal Fluminense).
-  - Bacharelado em Engenharia Elétrica (Universidade Severino Sombra).
-- 🌐 **Idiomas:** Português (Nativo), Inglês (Fluente) e Espanhol (Avançado).
+### 🛠️ **Ferramentas e Tecnologias:**
+- Python, Pandas, NumPy e outras bibliotecas
+- N8N, Dify, Flowise, Typebot e outras ferramentas de automação no-code
 
-## Projetos Atuais
+### 🎓 **Educação:**
+- **MBA em Investimentos Internacionais** - ABRACOMEX  
+- **MBA em Marketing** - Universidade Federal Fluminense  
+- **MBA em Competitividade e Liderança Global** - Georgetown University, EUA  
+- **Bacharelado em Engenharia Elétrica** - Universidade Severino Sombra
+- **Idiomas:** Português (Nativo), Inglês (Fluente), Espanhol (Avançado)  
 
-- **Automação de Estratégias de Investimento**
-  - Scripts para análise de mercado financeiro e automação de operações.
-  - Utilização de bibliotecas de dados e machine learning.
+### 🤝 **Aberto a Colaborações em:**
+🌐 Projetos envolvendo automação, inteligência artificial e análise de dados.  
+💻 Desenvolvimento de soluções para negócios e investimentos utilizando tecnologia avançada.  
+📈 Iniciativas que combinem estratégia, tecnologia e inovação no setor financeiro e empresarial.  
 
-- **Consultoria em IA para Negócios**
-  - Implementação de soluções customizadas com IA para aumento de eficiência.
+### 🌟 **Curiosidade:**  
+Meu interesse por inovação começou cedo: já em 2008, criei um projeto de IA como parte do meu TCC em Engenharia Elétrica, e desde então nunca parei de explorar as possibilidades da tecnologia para resolver problemas complexos. 🚀 
 
-## Vamos Conectar?
-
-- 📫 **Email:** [leandrorosa.lsr@gmail.com](mailto:leandrorosa.lsr@gmail.com)
-- 🌐 **LinkedIn:** [Leandro Rosa](https://www.linkedin.com/in/leandrorosabr/)
-- 💼 **Site:** [Contrata Uma IA](https://contrataumaia.com)
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborar em projetos inovadores. 🚀
+### 💬 **Vamos Conectar!**  
+📫 **Email:** [leandrorosa.lsr@gmail.com](mailto:leandrorosa.lsr@gmail.com)  
+🌐 **LinkedIn:** [Leandro Rosa](https://www.linkedin.com/in/leandrorosabr/)  
+💼 **Site:** [Contrata Uma IA](https://contrataumaia.com)  
