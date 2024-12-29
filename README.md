@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Leandro Rosa  
 ### 🌱 Um apaixonado por Estratégia de Negócios, Investimentos e Automações com e sem IA  
-🌐 Desde 2008 explorando a interseção entre tecnologia, negócios e inovação
+🌐 Desde 2008 explorando a interseção entre tecnologia, negócios e inovação.
 🚀 Comprometido com o aprendizado contínuo e a criação de soluções impactantes.
 
 💡 Desde 2009, venho aplicando Inteligência Artificial em projetos inovadores para negócios e investimentos. Meu primeiro projeto com IA foi desenvolvido como TCC em Engenharia Elétrica, e desde então venho expandindo minha experiência nesse campo.
