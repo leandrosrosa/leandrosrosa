@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Leandro Rosa  
-### 🌱 Um apaixonado por Estratégia, Marketing, Investimentos e Automações e sem IA  
+### 🌱 Um apaixonado por Estratégia de Negócios, Investimentos e Automações com e sem IA  
 🌐 Desde 2008 explorando a interseção entre tecnologia, negócios e inovação
 🚀 Comprometido com o aprendizado contínuo e a criação de soluções impactantes.
 
