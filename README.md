@@ -1,36 +1,19 @@
-# 👋 Olá, eu sou Leandro Rosa  
-### 🌱 Um apaixonado por Estratégia de Negócios, Investimentos e Automações com e sem IA  
-🌐 Desde 2008 explorando a interseção entre tecnologia, negócios e inovação.  
-🚀 Comprometido com o aprendizado contínuo e a criação de soluções impactantes.
+# 👋 Hi, I'm Leandro  
+💡 Since 2008, I have been applying Artificial Intelligence and Technology to innovative projects that turn ideas into real-world solutions. My first AI project, developed as my Electrical Engineering graduation thesis, marked the beginning of an exciting journey at the intersection of technology, business, and innovation.
 
-💡 Desde 2009, venho aplicando Inteligência Artificial em projetos inovadores para negócios e investimentos. Meu primeiro projeto com IA foi desenvolvido como TCC em Engenharia Elétrica, e desde então venho expandindo minha experiência nesse campo.
+### 🎓 **Academic Excellence**  
+🎓 Bachelor's degree in Electrical Engineering, complemented by MBAs in International Investments, Marketing, and Competitiveness & Global Leadership at Georgetown University. This robust educational background, combined with fluency in English and Spanish, enhances my ability to deliver strategic and innovative solutions.  
 
-### 💼 **Atualmente focado em:**
-🔭 Desenvolver automações para estratégias de investimento e análise de dados usando Python.  
-💼 Desenvolver automações com e sem IA para negócios, desde atendimento ao cliente até gestão, estratégia e muito mais.  
-📚 Aprimorar conhecimentos em inteligência artificial aplicada a negócios e finanças.  
-🚀 Explorar e implementar soluções tecnológicas para otimizar processos de decisão em investimentos.  
+### 🎯 **Currently focused on:**  
+🔭 Building the complete structure of a Hedge Fund using Python, with a multidisciplinary team of Analysts (Technical, Fundamental, Sentiment, among others), Risk Management, Portfolio Management, and High-Frequency Trading, focused on Cryptocurrencies, Forex, and Stock Market Assets.  
+💼 Developing transformative solutions, with and without AI, to address business needs in areas such as customer service, financial management, HR, strategy, and more.  
 
-### 🛠️ **Ferramentas e Tecnologias:**
-- Python, Pandas, NumPy e outras bibliotecas
-- N8N, Dify, Flowise, Typebot e outras ferramentas de automação no-code
+### 🛠️ **Tools and Technologies:**  
+- **Languages and libraries:** Python, Pandas, NumPy, and more.  
+- **No-code tools:** N8N, Dify, Flowise, Typebot, and similar platforms.  
+- **AI platforms:** Langchain, CrewAI, and other cutting-edge technologies.  
 
-### 🎓 **Educação:**
-- **MBA em Investimentos Internacionais** - ABRACOMEX  
-- **MBA em Marketing** - Universidade Federal Fluminense  
-- **MBA em Competitividade e Liderança Global** - Georgetown University, EUA  
-- **Bacharelado em Engenharia Elétrica** - Universidade Severino Sombra
-- **Idiomas:** Português (Nativo), Inglês (Fluente), Espanhol (Avançado)  
-
-### 🤝 **Aberto a Colaborações em:**
-🌐 Projetos envolvendo automação, inteligência artificial e análise de dados.  
-💻 Desenvolvimento de soluções para negócios e investimentos utilizando tecnologia avançada.  
-📈 Iniciativas que combinem estratégia, tecnologia e inovação no setor financeiro e empresarial.  
-
-### 🌟 **Curiosidade:**  
-Meu interesse por inovação começou cedo: já em 2008, criei um projeto de IA como parte do meu TCC em Engenharia Elétrica, e desde então nunca parei de explorar as possibilidades da tecnologia para resolver problemas complexos. 🚀 
-
-### 💬 **Vamos Conectar!**  
+### 💬 **Let's Connect!**  
 📫 **Email:** [leandrorosa.lsr@gmail.com](mailto:leandrorosa.lsr@gmail.com)  
 🌐 **LinkedIn:** [Leandro Rosa](https://www.linkedin.com/in/leandrorosabr/)  
-💼 **Site:** [Contrata Uma IA](https://contrataumaia.com)  
+💼 **Website:** [Contrata Uma IA](https://contrataumaia.com)
