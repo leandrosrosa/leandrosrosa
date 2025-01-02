@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leandro  
 💡 Since 2008, I have been applying Artificial Intelligence and Technology to innovative projects that turn ideas into real-world solutions. My first AI project, developed as my Electrical Engineering graduation thesis, marked the beginning of an exciting journey at the intersection of technology, business, and innovation.  
-🎓 Bachelor's degree in Electrical Engineering, complemented by MBAs in International Investments, Marketing, and Competitiveness & Global Leadership at Georgetown University. This robust educational background, combined with fluency in English and Spanish, enhances my ability to deliver strategic and innovative solutions.  
+🎓 Bachelor's degree in Electrical Engineering, complemented by MBAs in International Investments, Marketing, and Global Competitiveness Leadership at Georgetown University. This robust educational background, combined with fluency in English and Spanish, enhances my ability to deliver strategic and innovative solutions.  
 
 ### 🎯 **Currently focused on:**  
 🔭 Building the complete structure of a Hedge Fund using Python, with a multidisciplinary team of Analysts (Technical, Fundamental, Sentiment, among others), Risk Management, Portfolio Management, and High-Frequency Trading, focused on Cryptocurrencies, Forex, and Stock Market Assets.  
